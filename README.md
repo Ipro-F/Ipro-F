@@ -1,6 +1,7 @@
 ## Hi there, I'm Fatima 👋
 
-🎓 CS Senior Student 
+🎓 CS Senior Student | UOB | Bahrain
+Reach me at fatimakkem@gmail.com
 
 ## 🚀 Projects
 - Poll Maker Website – HTML, CSS, PHP, JavaScript
