@@ -4,15 +4,15 @@
 - 📫 Reach me at fatimakkem@gmail.com
   
 
-## 🚀 Projects
+## 🚀 My Projects
 - Poll Maker Website – HTML, CSS, PHP, JavaScript
 - Library Management System Website – HTML, CSS, PHP, JavaScript, Bootstrap
 - Mobile Fix Chatbot – Python
 - Conduct and Manage Online Exams App – Flutter Framework
 - To Do List App – Flutter Framework
-- Working on: **Secret**
+- Currently Working on: 🔭 **Secret**
 
-## 🛠️ Skills
+## 🛠️ My Skills
 - Languages: Java, JavaScript, Python, PHP, C++, Bash, SQL, PLSQL, MIPs
 - Frameworks: Flutter
 - Tools: Linux, Visual Studio
