@@ -1,5 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Fatima 👋
 
+🎓 CS Senior Student 
+
+## 🚀 Projects
+- Poll Maker Website – HTML, CSS, PHP, JavaScript
+- Library Management System Website – HTML, CSS, PHP, JavaScript, Bootstrap
+- Mobile Fix Chatbot – Python
+- Conduct and Manage Online Exams App – Flutter Framework
+- To Do List App – Flutter Framework
+- Working on: **Secret**
+
+## 🛠️ Skills
+- Languages: Java, JavaScript, Python, PHP, C++, Bash, SQL, PLSQL, MIPs
+- Frameworks: Flutter
+- Tools: Linux, Visual Studio
 <!--
 **Ipro-F/Ipro-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
